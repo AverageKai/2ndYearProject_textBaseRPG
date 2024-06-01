@@ -1,0 +1,10 @@
+com\mycompany\textedbasedrpg\Scenario.class
+com\mycompany\textedbasedrpg\Character.class
+com\mycompany\textedbasedrpg\CharacterUtil.class
+com\mycompany\textedbasedrpg\Skill.class
+com\mycompany\textedbasedrpg\MonsterUtil.class
+com\mycompany\textedbasedrpg\TextedBasedRPG.class
+com\mycompany\textedbasedrpg\BattleSystem.class
+com\mycompany\textedbasedrpg\ScoreRecorder.class
+com\mycompany\textedbasedrpg\ScoreSystem.class
+com\mycompany\textedbasedrpg\Monster.class
