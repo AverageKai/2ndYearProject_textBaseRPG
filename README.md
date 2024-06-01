@@ -1,2 +1,2 @@
-# 2ndYearProjects
-These are myself made project when i was in 2nd year of my college life although its not some game changing project but projects that i made to advance my knowledge in Coding. 
+# 2ndYearProject_TextBaseRPG
+this is a project that i made in my first sem of learning java although it quite simple it is my first steps in learning java
